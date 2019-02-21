@@ -1,1 +1,2 @@
-# rsschool-2019Q1-codeacademy
+# Tatsiana Zare
+HTML CSS Basics: https://www.codecademy.com/users/TatsianaZare/achievements
